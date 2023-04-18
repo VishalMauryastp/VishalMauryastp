@@ -98,7 +98,7 @@
 
 <br>
 
-[![@in-vishalmaurya](https://img.icons8.com/fluency/48/000000/linkedin.svg "@in-vishalmaurya")](https://www.linkedin.com/in/in-vikashmaurya/)
+[![@in-vishalmaurya](https://img.icons8.com/fluency/48/000000/linkedin.svg "@in-vishalmaurya")](https://www.linkedin.com/in/in-vishalmaurya/)
 [![@vishalmaurya](https://img.icons8.com/fluency/48/000000/instagram-new.svg "@VishalMauryastp")](https://www.instagram.com/VishalMauryastp/)
 [![@vishalmaurya](https://img.icons8.com/fluency/48/000000/gmail-new.svg "@vishalmaurya12nov@gmail.com")](mailto:vishalmaurya12nov@gmail.com)
 [![@VishalMaurya](https://img.icons8.com/fluency/48/000000/facebook.svg "@VishalMauryastp")](https://www.facebook.com/VishalMauryastp)
