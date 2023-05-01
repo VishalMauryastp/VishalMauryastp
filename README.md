@@ -117,7 +117,15 @@
 
 ### **Creativity**:
 
-> [3D-Cube](https://vikashmaurya10.github.io/3D-Cube/)
+> [Image-Scroller]( https://vishalmauryastp.github.io/Image-Scroller/)
+
+> [Dropdown]( https://vishalmauryastp.github.io/dropdown/)
+
+> [loginpage-by-html-css-js](  https://vishalmauryastp.github.io/loginpage-by-html-css-js/loginpage)
+
+> [BookCover](  https://vishalmauryastp.github.io/Bookcover/bookcover)
+
+
 
 <br>
 
@@ -144,6 +152,7 @@
 > [qr-code-component-main](https://vishalmauryastp.github.io/qr-code-component-main/)
 
 > [Notification-Preview](https://vishalmauryastp.github.io/Notification-Preview/)
+
 
 <br>
 <br>
