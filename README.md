@@ -42,6 +42,7 @@
 <a href="#">![js](https://img.icons8.com/color/48/000000/javascript.svg)</a>
 <a href="#">![scss](https://img.icons8.com/color/48/000000/sass.svg)</a>
 <a href="#"><img src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/jquery.svg" width ="48"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=react" width ="48"></a>
 
 <br>
 
@@ -122,7 +123,27 @@
 
 ### **Frontend Mentor Challenages**:
 
-> [Testimonials-grid-section-main](https://vikashmaurya10.github.io/testimonials-grid-section-main/)
+> [loopstudios-landing-page-main](https://loopstudios-landing-page-main-vm.vercel.app/)
+
+> [intro-section-with-dropdown-navigation](https://vishalmauryastp.github.io/intro-section-with-dropdown-navigation-main/)
+
+> [sunny-side-landing-page](https://sunny-side-landing-page-eg048c4om-vishalmauryastp.vercel.app/)
+
+> [nft-preview-card-component-main](https://vishalmauryastp.github.io/nft-preview-card-component-main/)
+
+> [stats-preview-card-component](https://vishalmauryastp.github.io/stats-preview-card-component-main/)
+
+> [single-price-grid-component-master](https://vishalmauryastp.github.io/single-price-grid-component-master/)
+
+> [huddle-landing-page-with-single-introductory-section-master](https://vishalmauryastp.github.io/huddle-landing-page-with-single-introductory-section-master/)
+
+> [profile-card-component-main](https://vishalmauryastp.github.io/profile-card-component-main/)
+
+> [product-preview-card-component-main](https://vishalmauryastp.github.io/product-preview-card-component-main/)
+
+> [qr-code-component-main](https://vishalmauryastp.github.io/qr-code-component-main/)
+
+> [Notification-Preview](https://vishalmauryastp.github.io/Notification-Preview/)
 
 <br>
 <br>
