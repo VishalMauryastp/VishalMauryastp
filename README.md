@@ -131,6 +131,8 @@
 
 ### **Frontend Mentor Challenages**:
 
+> [huddle-landing-page-with-alternating-feature-blocks](huddle-landing-page-with-alternating-feature-blocks-1n556j39o.vercel.app)
+
 > [loopstudios-landing-page-main](https://loopstudios-landing-page-main-vm.vercel.app/)
 
 > [intro-section-with-dropdown-navigation](https://vishalmauryastp.github.io/intro-section-with-dropdown-navigation-main/)
