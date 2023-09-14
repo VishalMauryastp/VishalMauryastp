@@ -12,7 +12,7 @@
 <br>
 
 - A passionate Self-taught Front-end developer.<br>
-- Currently pursuing <b>MCA</b> form <b>Bundelkhand University</b>.<br>
+- I have done my postgradution form <b>Bundelkhand University</b> in <b>Master of Computer Application </b>.<br/>
 - Currently learning Web Development and Backend Development by Self Study.
   <br>
   <br>
