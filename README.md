@@ -131,13 +131,17 @@
 
 ### **Frontend Mentor Challenages**:
 
+> [space-tourism-website-main-project](https://space-tourism-website-main-project.vercel.app/home)
+
+> [Easy Bank](easy-bank-six-rho.vercel.app)
+
 > [huddle-landing-page-with-alternating-feature-blocks](huddle-landing-page-with-alternating-feature-blocks-1n556j39o.vercel.app)
 
 > [loopstudios-landing-page-main](https://loopstudios-landing-page-main-vm.vercel.app/)
 
 > [intro-section-with-dropdown-navigation](https://vishalmauryastp.github.io/intro-section-with-dropdown-navigation-main/)
 
-> [sunny-side-landing-page](https://sunny-side-landing-page-eg048c4om-vishalmauryastp.vercel.app/)
+> [sunny-side-landing-page](https://sunny-side-landing-page-omega.vercel.app/)
 
 > [nft-preview-card-component-main](https://vishalmauryastp.github.io/nft-preview-card-component-main/)
 
