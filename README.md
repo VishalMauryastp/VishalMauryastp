@@ -133,7 +133,7 @@
 
 > [space-tourism-website-main-project](https://space-tourism-website-main-project.vercel.app/home)
 
-> [Easy Bank](easy-bank-six-rho.vercel.app)
+> [Easy Bank](https://easy-bank-six-rho.vercel.app/)
 
 > [huddle-landing-page-with-alternating-feature-blocks](huddle-landing-page-with-alternating-feature-blocks-1n556j39o.vercel.app)
 
