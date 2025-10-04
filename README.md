@@ -34,7 +34,7 @@ I thrive in collaborative environments, mentor junior developers, and continuous
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### **Software Engineer** – AIQWIP (May 2025 – Present)
 
@@ -64,14 +64,14 @@ I thrive in collaborative environments, mentor junior developers, and continuous
 
 ---
 
-## 🎓 Education
+## Education
 
 * **Master of Computer Applications (MCA)** – Bundelkhand University (2021 – 2023)
 * **Bachelor of Arts (Mathematics & Anthropology)** – Lucknow University (2018 – 2021)
 
 ---
 
-## 📂 Projects
+## Projects
 
 | Project          | Description                                                                                   | Link                                          |
 | ---------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------- |
