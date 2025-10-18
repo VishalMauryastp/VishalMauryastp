@@ -24,7 +24,7 @@
 
 ## About Me
 
-As a **Full Stack MERN Developer with 1.8 years of professional experience**, I specialize in building **scalable, high-performance web applications**. I am passionate about crafting responsive UIs and architecting robust backend systems that deliver seamless user experiences.
+As a **Full Stack MERN Developer with 2.5 years of professional experience**, I specialize in building **scalable, high-performance web applications**. I am passionate about crafting responsive UIs and architecting robust backend systems that deliver seamless user experiences.
 
 *  Optimized applications for **40% performance improvements**
 *  Integrated multiple **third-party APIs and services**
