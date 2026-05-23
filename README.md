@@ -24,11 +24,8 @@
 
 ## About Me
 
-As a **Full Stack MERN Developer with 2.5 years of professional experience**, I specialize in building **scalable, high-performance web applications**. I am passionate about crafting responsive UIs and architecting robust backend systems that deliver seamless user experiences.
+Hi, I’m Vishal Maurya, and I’m a full-stack developer with  3+ years of experience. I have completed my Master's in Computer Science.I have experience building Saas web applications, including frontend, backend, database, and deployment. I am very comfortable with React.js, Next.js, Node.js, and Python FastAPI. I enjoy building web applications, and I am currently upskilling myself in Generative AI 
 
-*  Optimized applications for **40% performance improvements**
-*  Integrated multiple **third-party APIs and services**
-*  Strong focus on **performance optimization, maintainability, and scalability**
 
 I thrive in collaborative environments, mentor junior developers, and continuously expand my skillset to stay at the forefront of modern web development technologies.
 
